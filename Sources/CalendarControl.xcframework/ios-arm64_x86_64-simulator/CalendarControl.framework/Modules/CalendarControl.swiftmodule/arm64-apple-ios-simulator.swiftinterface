@@ -13,6 +13,7 @@ import _StringProcessing
   @_Concurrency.MainActor(unsafe) public func test()
   @_Concurrency.MainActor(unsafe) public func test1()
   @_Concurrency.MainActor(unsafe) public func test2()
+  @_Concurrency.MainActor(unsafe) public func testfor()
   @_Concurrency.MainActor(unsafe) @objc override dynamic public func viewDidLoad()
   @_Concurrency.MainActor(unsafe) @objc override dynamic public func viewWillTransition(to size: CoreFoundation.CGSize, with coordinator: UIKit.UIViewControllerTransitionCoordinator)
   @objc deinit
