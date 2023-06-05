@@ -22,6 +22,7 @@ import _StringProcessing
   @_Concurrency.MainActor(unsafe) public func Gaurav3()
   @_Concurrency.MainActor(unsafe) public func Gaurav4()
   @_Concurrency.MainActor(unsafe) public func Gaurav5()
+  @_Concurrency.MainActor(unsafe) public func Gaurav6()
   @_Concurrency.MainActor(unsafe) @objc override dynamic public func viewDidLoad()
   @_Concurrency.MainActor(unsafe) @objc override dynamic public func viewWillTransition(to size: CoreFoundation.CGSize, with coordinator: UIKit.UIViewControllerTransitionCoordinator)
   @objc deinit
