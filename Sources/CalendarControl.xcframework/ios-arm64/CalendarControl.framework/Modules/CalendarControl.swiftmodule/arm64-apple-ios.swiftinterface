@@ -28,6 +28,7 @@ import _StringProcessing
   @_Concurrency.MainActor(unsafe) public func veer2()
   @_Concurrency.MainActor(unsafe) public func veer3()
   @_Concurrency.MainActor(unsafe) public func github01()
+  @_Concurrency.MainActor(unsafe) public func github02()
   @_Concurrency.MainActor(unsafe) @objc override dynamic public func viewDidLoad()
   @_Concurrency.MainActor(unsafe) @objc override dynamic public func viewWillTransition(to size: CoreFoundation.CGSize, with coordinator: UIKit.UIViewControllerTransitionCoordinator)
   @objc deinit
